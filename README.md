@@ -64,8 +64,8 @@ The **EO Research Analytics Platform** is a professional-grade web application f
 
 1. **Clone the Repository**
 
-git clone https://github.com/your-username/eo-research-platform.git
-cd eo-research-platform
+git clone https://github.com/praveen0767/EO-GPT.git
+cd EO-GPT
 Create Virtual Environment (Recommended)
 2.
 bash
